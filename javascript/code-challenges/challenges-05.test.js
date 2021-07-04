@@ -13,10 +13,9 @@ You can assume that neither firstName nor lastName will be blank
 ------------------------------------------------------------------------------------------------ */
 const toLastNames = people => {
   // Solution code here...
-  let newArray = people.reduce((acc,val,i)=>{
-    acc[i] =val.firstName + ' ' + val.lastName;
-    return acc;
-  },[]);
+  let newArray = people.map((data)=>{
+    return data.firstName + ' ' + data.lastName;
+  });
   return newArray;
 };
 

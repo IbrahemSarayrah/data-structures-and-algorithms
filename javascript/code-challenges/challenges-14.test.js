@@ -183,6 +183,20 @@ Here is a sample board:
 
 const detectTicTacToeWin = (board) => {
   // Solution code here...
+  let check = false;
+
+  for (let i=0; i<board.length; i++) {
+    if (board[0][i] && board[0][i] === board[1][i] && board[1][i] === board[2][i]) {
+      check = true;
+    }
+  }
+
+  if (board[0][0] === board[1][1] && board[1][1] === board[2][2] ||
+        board[0][2] === board[1][1] && board[1][1] === board[2][0]) {
+    check = true;
+  }
+
+  return check;
 };
 
 /* ------------------------------------------------------------------------------------------------

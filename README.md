@@ -21,3 +21,24 @@ To run your tests
 ### 401 Data Structures, Code Challenges
 
 - Please follow the instructions specific to your 401 language, which can be found in the directory below, matching your course.
+
+| read         | link   |
+| -----------  | ----------- |
+| Code Challenge-01  | [ReadMe](401-code-challenges/class-01/README.md) |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
+| Code Challenge   | [ReadMe]() |
